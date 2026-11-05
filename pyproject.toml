@@ -1,0 +1,9 @@
+[project]
+name = "cricket-ticket-booking-system"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "lckr-jupyterlab-variableinspector>=3.2.4",
+]
